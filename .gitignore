@@ -1,0 +1,10 @@
+
+.ipynb_checkpoints/image_classification-checkpoint.ipynb
+__pycache__/helper.cpython-36.pyc
+checkpoint
+*.pyc
+cifar-10-python.tar.gz
+image_classification.data-00000-of-00001
+image_classification.meta
+*.p
+*.index
